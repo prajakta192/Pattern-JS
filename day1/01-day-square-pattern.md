@@ -1,3 +1,3 @@
-for every pattern there are two important things
-	1] there is outer loop which will run times of 'n' numbers.
-	2] identifying for every Row how many column are there
+for our first challange; sqaure. 
+	there will be 'n' rows & 'n' columns
+so the outer & inner loop will continue to run till 'n'
